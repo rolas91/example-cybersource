@@ -1,0 +1,16 @@
+{
+  "name": "implementation_cybersource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cybersource-rest-client": "^0.0.48",
+    "jwk-to-pem": "^2.0.5"
+  }
+}
